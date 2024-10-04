@@ -1,0 +1,26 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=lab1 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=62 Type=50 Scope=115 Force=67 Index=0 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                 counter                                     REAL    0 "                                                               *"    0    8    1   10    1    0         
+                               fb_motor2                                 FB_Motor    0 "                                                               *"    0   24    1    0    1    1         
+                                       u                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                       w                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                     phi                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                              integrator                            FB_Integrator    0 "                                                               *"    1   24    1    0    0    0         
+                                      in                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                     out                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                      dt                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                      Tm                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                      ke                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                      dt                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                fb_motor                                 FB_Motor    0 "                                                               *"    0   24    1    0    1    1         
+                                       u                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                       w                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                     phi                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                              integrator                            FB_Integrator    0 "                                                               *"    1   24    1    0    0    0         
+                                      in                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                     out                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                      dt                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                      Tm                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                      ke                                     REAL    0 "                                                               *"    1    8    1   10    0    0         
+                                      dt                                     REAL    0 "                                                               *"    1    8    1   10    0    0         

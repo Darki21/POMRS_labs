@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<breakpoints>
+  <breakpoint>
+    <status>Y</status>
+    <file>Logical/Libraries/MotorCont/FB_Motor.c</file>
+    <position>21</position>
+    <condition></condition>
+    <instance></instance>
+    <program>MotorCont</program>
+  </breakpoint>
+</breakpoints>
